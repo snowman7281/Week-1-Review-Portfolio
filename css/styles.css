@@ -1,5 +1,8 @@
-.MyPic {
 
+
+body { background: #A9A9A9 !important; }
+
+.MyPic {
   float: right;
 }
 
@@ -8,4 +11,10 @@ img {
   height: 40%;
   border: 2px solid;
   border-radius: 50%;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 150%;
+  font-style: italic;
 }
