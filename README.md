@@ -1,13 +1,39 @@
-Author Name: Nongsnow Vilay
+# _{PortFolio}_
 
-Project Name: Week-1-Review-Portfolio
+#### _{Application of profile on myself}, {08/11/2017}_
 
-Description: Created and designed html file using both custom css and bootstrap css.  The html contains various elements to give viewers a professional peak of my profile.  The entire project was created in terminal and atom.  Everything was created locally also remotely transferred and updated to GitHub.
+#### By _**{Snow Vilay}**_
 
-Setup Instructions: go to the link below and either clone project from GitHub or copy code inside html to duplicate code for a template to use for yourself.
+## Description
 
-Link to GitHub Pages: https://github.com/snowman7281/Week-1-Review-Portfolio
+_{This webpage is built using html, css, boostrap to style page design.  Used basic elements to implement specified tags required to for this assignment.}_
 
-Copyright (c) 2017 Snow Vilay
+## Setup/Installation Requirements
 
-This software is licensed under the MIT license.
+* _download file from link_
+* _copy code to have a template_
+* _view in jsfiddle_
+* _use to get ideas for own project_
+* _click on link below_
+
+* _Link to GitHub Pages:_ 
+
+_{go to the link below and either clone project from GitHub or copy code inside html to duplicate code for a template to use for yourself}_
+
+## Known Bugs
+
+_{no known bugs }_
+
+## Support and contact details
+
+_{call 1-800-come-again}_
+
+## Technologies Used
+
+_{terminal, atom text editor, html, css, bootstrap}_
+
+### License
+
+*{This software is licensed under the MIT license.}*
+
+Copyright (c) 2016 **_{Snow Vilay}_**}_
